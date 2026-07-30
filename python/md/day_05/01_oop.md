@@ -13,7 +13,7 @@
 1. 프로그램 규모가 커질수록 데이터와 함수의 관리가 어렵다.
 2. 코드 수정 시 영향 범위 파악이 어렵다.
 
-![alt text](../images/python_절차지향.png)
+![alt text](../../images/python_절차지향.png)
 
 ---
 
@@ -61,8 +61,8 @@ alice = introduce() # 객체가 자신의 정보를 출력한다.
 
 - 실제 존재하는 사물을 추상화한 것, `속성 (변수)` , `동작 (메서드)` 를 가진다.
 
-![alt text](../images/python_객체지향1.png)
-![alt text](../images/python_객체지향2.png)
+![alt text](../../images/python_객체지향1.png)
+![alt text](../../images/python_객체지향2.png)
 
 
 
@@ -91,7 +91,7 @@ person2 = Person("Bella", 30)
 person2.introduce() # 안녕하세요. 저는 Bella, 나이는 30살입니다.
 ```
 
-![alt text](../images/python_인스턴스.png)
+![alt text](../../images/python_인스턴스.png)
 
 #### 클래스와 인스턴스
 
@@ -100,7 +100,7 @@ person2.introduce() # 안녕하세요. 저는 Bella, 나이는 30살입니다.
 - 공통된 특성과 기능을 가진 틀을 만드는 것은 새로운 타입을 만드는 행위이다.
 - **인스턴스(객체)**는 클래스를 이용해 실제로 생성된 객체이며, `type(인스턴스)`를 출력하면 해당 클래스가 나온다.
 
-![alt text](../images/python_인스턴스출력.png)
+![alt text](../../images/python_인스턴스출력.png)
 
 
 > 💡 우리가 사용해왔던 데이터 타입은 사실 모두 클래스였다.

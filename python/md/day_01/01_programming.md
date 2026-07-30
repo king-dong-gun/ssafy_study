@@ -140,7 +140,7 @@ name
  ▼
 "Python"
 ```
-![alt text](../images/python_메모리주소.png)
+![alt text](../../images/python_메모리주소.png)
 ---
 
 # 재할당(Reassignment)

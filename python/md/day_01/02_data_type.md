@@ -69,7 +69,7 @@ print(3 + 1.5)
 > - 길이를 구할 수 있다.
 > - 반복문으로 순회할 수 있다.
 > 
-> ![alt text](../images/python_시퀀스타입.png)
+> ![alt text](../../images/python_시퀀스타입.png)
 
 ---
 
@@ -478,7 +478,7 @@ Collection은 여러 개의 데이터를 하나로 묶어 저장하는 자료형
 
 ## 불변(Immutable)
 
-![alt text](../images/python_불변가변.png)
+![alt text](../../images/python_불변가변.png)
 
 새로운 객체가 생성된다.
 

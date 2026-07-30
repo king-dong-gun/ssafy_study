@@ -2,7 +2,7 @@
 
 ### 1. 비시퀀스 데이터 구조
 
-![alt text](../images/python_비시퀀스시퀀스.png)
+![alt text](../../images/python_비시퀀스시퀀스.png)
 
 ---
 
@@ -200,7 +200,7 @@ my_set.remove(10) # KeyError: 10
 
 #### 세트의 집합 메서드
 
-![alt text](../images/python_set.png)
+![alt text](../../images/python_set.png)
 
 ---
 
@@ -215,7 +215,7 @@ my_set.remove(10) # KeyError: 10
 2. 변환된 해시 값을 인덱스로 삼아 데이터를 저장하거나 찾는다.
 3. 이로 인해 검색, 삽입, 삭제를 매우 빠르게 수행한다.
 
-![alt text](../images/python_해시테이블.png)
+![alt text](../../images/python_해시테이블.png)
 
 #### 해시란?
 

@@ -95,7 +95,7 @@ print("고객님은", result)
 
 `age >= 19`가 `False`이므로 `else`문이 실행된다.
 
-![alt text](../images/python_조건문.png)
+![alt text](../../images/python_조건문.png)
 
 ---
 
