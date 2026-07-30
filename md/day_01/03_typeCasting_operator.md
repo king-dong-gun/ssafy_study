@@ -135,7 +135,7 @@ print(num)
 
 산술 연산자는 숫자를 계산할 때 사용한다.
 
-![alt text](../../images/python_숫자연산자.png)
+![alt text](../images/python_숫자연산자.png)
 
 예시
 
@@ -165,7 +165,7 @@ print(2 ** 3)
 
 # 복합 연산자
 
-![alt text](../../images/python_복합연산자.png)
+![alt text](../images/python_복합연산자.png)
 
 복합 연산자는 **연산과 할당을 동시에 수행**한다.
 
@@ -197,7 +197,7 @@ print(x)
 
 # 비교 연산자
 
-![alt text](../../images/python_비교연산자.png)
+![alt text](../images/python_비교연산자.png)
 
 비교 연산자는 두 값을 비교하여 **True 또는 False**를 반환한다.
 
@@ -322,7 +322,7 @@ True
 
 논리 연산자는 여러 조건을 조합할 때 사용한다.
 
-![alt text](../../images/python_논리연산자.png)
+![alt text](../images/python_논리연산자.png)
 
 ---
 

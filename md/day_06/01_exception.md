@@ -7,7 +7,7 @@
 
 #### 실제 버그가 발견된 최초 사례
 
-![alt text](../../images/python_버그.png)
+![alt text](../images/python_버그.png)
 
 → 컴퓨터가 갑자기 제대로 동작하지 않아 원인을 찾아보니 나방이 한 마리 끼어있었음….
 그래서 오류라는 뜻을 `bug` 라고 이용한 말장난……
@@ -26,7 +26,7 @@
 3. Python tutor 활용
 4. 눈 컴파일, 눈 디버깅
 
-![alt text](../../images/python_디버깅.png)
+![alt text](../images/python_디버깅.png)
 
 ---
 
@@ -195,7 +195,7 @@ else:
     print("0으로 나눌 수 없습니다.")
 ```
 
-![alt text](../../images/python_eafplbyl.png)
+![alt text](../images/python_eafplbyl.png)
 
 ---
 

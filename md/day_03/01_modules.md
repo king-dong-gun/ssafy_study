@@ -34,7 +34,7 @@ print(math.sqrt(4)) # 2.0
         ```
         
 
-![alt text](../../images/python_import.png)
+![alt text](../images/python_import.png)
 
 - `import` 시 이름 충돌 다루기
     - 같은 이름을 두 번 가져오면 나중에 `import` 한 것이 덮어쓴ㄷ다.
@@ -69,23 +69,23 @@ my_sqrt(4)  # my_amth
 
 #### my_pacakage에 math.my_math 모듈생성
 
-![alt text](../../images/python_패키지1.png)
+![alt text](../images/python_패키지1.png)
 
 #### my_pacakage에 static.tools 모듈생성
 
-![alt text](../../images/python_패키지2.png)
+![alt text](패키지2.png)
 
 #### 상위 pacakage에 my_math 모듈 생성
 
-![alt text](../../images/python_패키지3.png)
+![alt text](../images/python_패키지3.png)
 
 #### simple.py 실행 파일 생성
 
-![alt text](../../images/python_패키지4.png)
+![alt text](../images/python_패키지4.png)
 
 #### 출력 결과
 
-![alt text](<../../images/python_패키지 실행.png>)
+![alt text](<패키지 실행.png>)
 
 > 첫번째 상위 패키지의 x + y로 3 출력
 두번째 my_pacakage에 x - y로 1 출력
@@ -99,7 +99,7 @@ my_sqrt(4)  # my_amth
 > 프로그램 개발에 자주 사용되는 유용한 코드나 함수들을 모아둔 저장소
 > 
 
-![alt text](../../images/python_라이브러리.png)
+![alt text](라이브러리.png)
 ---
 ## 핵심 정리
 

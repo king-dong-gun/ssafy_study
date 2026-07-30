@@ -33,7 +33,7 @@ my_dog.bark() # 멍멍
 my_dog.eat() # 먹는 중
 ```
 
-![alt text](../../images/python_상속.png)
+![alt text](상속.png)
 
 ---
 
@@ -91,7 +91,7 @@ example.do_something(10)
 > - 상속된 모든 클래스의 요소를 활용 가능하다.
 > - 중복된 속성이나 메서드가 있는 경우 **상속 순서에 의해 결정된다.**
 
-![alt text](../../images/python_다중상속.png)
+![alt text](../images/python_다중상속.png)
 
 #### 다중 상속 예시
 
@@ -129,7 +129,7 @@ class FirstChild(Dad, Mom):
 
 #### 다이아몬드 문제
 
-![alt text](../../images/python_다이아몬드문제.png)
+![alt text](../images/python_다이아몬드문제.png)
 
 ```python
 class A:
