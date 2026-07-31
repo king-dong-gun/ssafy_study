@@ -16,3 +16,5 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 ### Web
 
 - [Day 01 - HTML, CSS 기초](./web/md/day_01/html_css_basic.md)
+- [Day 01 - CSS Layout](./web/md/day_01/css_layout.md)
+- [Day 02 - Bootstrap](./web/md/day_02/bootsrap.md)
