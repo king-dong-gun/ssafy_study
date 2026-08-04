@@ -71,7 +71,64 @@ arr=np.array([
 
 ---
 
-### 2. 벡터화 (Vectorization)
+### 2. 2차원 배열
+
+| 함수 | 설명 |
+| --- | --- |
+| `np.array([[값], [값]])` | 2차원 배열 생성 |
+| `arr.shape` | 배열의 행과 열 크기 확인 |
+| `arr.T` | 배열의 행과 열 전환 |
+
+배열의 크기 확인
+
+#### 앞서 만든 배열
+
+```python
+arr = np.array([
+[1, 2, 3],
+[4, 5, 6]
+])
+```
+
+```python
+arr.shape
+```
+
+![](https://velog.velcdn.com/images/king-dong-gun/post/4d29fef1-0d18-4d63-888a-8133324500fb/image.png)
+
+
+### 3. reshape()
+
+| 함수 | 설명 |
+| --- | --- |
+| `arr.reshape(행, 열)` | 배열의 형태 변경 |
+| `-1` | 전체 원소 개수에 맞춰 크기 자동 계산 |
+
+---
+
+
+### 4. 축(axis) 연산
+
+| 축 | 설명 |
+| --- | --- |
+| `axis=0` | 열 방향으로 계산 |
+| `axis=1` | 행 방향으로 계산 |
+
+---
+
+### 5. 2차원 배열 집계 함수
+
+| 함수 | 설명 |
+| --- | --- |
+| `arr.sum()` | 전체 합계 |
+| `arr.sum(axis=0)` | 열별 합계 |
+| `arr.sum(axis=1)` | 행별 합계 |
+| `arr.mean(axis=0)` | 열별 평균 |
+| `arr.mean(axis=1)` | 행별 평균 |
+
+---
+
+### 6. 벡터화 (Vectorization)
 
 - 반복문을 직접 작성하지 않고 배열 전체에 연산을 적용하는 방식
 - 내부적으로 최적화된 연산을 수행해 빠른 계산이 가능하다.
@@ -84,7 +141,7 @@ arr*2
 
 ---
 
-### 3. 집계 함수
+### 7. 집계 함수
 
 배열의 데이터를 계산할 수 있는 다양한 함수를 제공한다.
 
@@ -97,7 +154,7 @@ arr*2
 | `np.std()` | 표준편차 |
 
 ---
-## 4. 조건 필터링 (Boolean Indexing)
+### 8. 조건 필터링 (Boolean Indexing)
 
 배열의 조건을 이용해 원하는 값만 선택할 수 있다.
 
@@ -119,7 +176,7 @@ arr*2
 ```
 ---
 
-## 5. 정렬 함수
+### 9. 정렬 함수
 
 배열의 값을 정렬하거나 정렬 기준 인덱스를 확인할 수 있다.
 
@@ -199,28 +256,6 @@ np.linspace(0,10,5)
 ```
 
 ![](https://velog.velcdn.com/images/king-dong-gun/post/a00180d6-a96f-42bb-b724-695b53c8209c/image.png)
-
-
----
-
-### 5. `shape`
-
-배열의 크기 확인
-
-#### 앞서 만든 배열
-
-```python
-arr = np.array([
-[1, 2, 3],
-[4, 5, 6]
-])
-```
-
-```python
-arr.shape
-```
-
-![](https://velog.velcdn.com/images/king-dong-gun/post/4d29fef1-0d18-4d63-888a-8133324500fb/image.png)
 
 
 ---
