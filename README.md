@@ -12,6 +12,7 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 - [Day 04 - Python 데이터 구조](./python/md/day_04)
 - [Day 05 - Python 객체지향 프로그래밍](./python/md/day_05)
 - [Day 06 - Python 객체지향 프로그래밍 2, 예외 처리](./python/md/day_06)
+- [Day 07 - Python API, JSON, LLM이란](./python/md/day_07)
 
 ### Web
 
