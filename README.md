@@ -7,12 +7,15 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 ### Python
 
 - [Day 01 - Python 기초](./python/md/day_01)
-- [Day 02 - Python 함수](./python/md/day_02)
-- [Day 03 - Python 모듈과 제어문](./python/md/day_03)
-- [Day 04 - Python 데이터 구조](./python/md/day_04)
-- [Day 05 - Python 객체지향 프로그래밍](./python/md/day_05)
-- [Day 06 - Python 객체지향 프로그래밍 2, 예외 처리](./python/md/day_06)
-- [Day 07 - Python API, JSON, LLM이란](./python/md/day_07)
+- [Day 02 - Python 함수](./python/md/day_02/01_function.md)
+- [Day 03 - Python 모듈](./python/md/day_03/01_modules.md)
+- [Day 03 - Python 제어문](./python/md/day_03/02_control_statement.md)
+- [Day 04 - Python 데이터 구조](./python/md/day_04/01_data_structure.md)
+- [Day 05 - Python 객체지향 프로그래밍](./python/md/day_05/01_oop.md)
+- [Day 06 - Python 객체지향 프로그래밍 2](./python/md/day_06/01_exception.md)
+- [Day 06 - Python 예외 처리](./python/md/day_06/oop.md)
+- [Day 07 - Python API, JSON, LLM이란](./python/md/day_07/api_json_llm.md)
+- [Day 07 - Responsive Web](./python/md/day_07/numpy_pandas.md)
 
 ### Web
 
