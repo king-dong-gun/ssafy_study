@@ -16,6 +16,7 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 - [Day 06 - Python 예외 처리](./python/md/day_06/oop.md)
 - [Day 07 - Python API, JSON, LLM이란](./python/md/day_07/api_json_llm.md)
 - [Day 07 - Python Numpy, Pandas](./python/md/day_07/numpy_pandas.md)
+- [Day 08 - Python Data_Visualizatio](./python/md/day_08/data_visualization.md.md)
 
 ### Web
 
