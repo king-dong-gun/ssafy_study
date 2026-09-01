@@ -24,3 +24,7 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 - [Day 01 - CSS Layout](./web/md/day_01/css_layout.md)
 - [Day 02 - Bootstrap](./web/md/day_02/bootsrap.md)
 - [Day 03 - Responsive Web](./web/md/day_03/responsive_web.md)
+
+### Algoritm
+- [Day 01 - List_01](./algorithm/md/day_01/list_01.md)
+- [Day 02 - List_02](./algorithm/md/day_01/list_02.md)
