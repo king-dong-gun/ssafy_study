@@ -26,5 +26,5 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 - [Day 03 - Responsive Web](./web/md/day_03/responsive_web.md)
 
 ### Algoritm
-- [Day 01 - List_01](./algorithm/md/day_01/list_01.md)
-- [Day 02 - List_02](./algorithm/md/day_01/list_02.md)
+- [Day 01 - list_01](./algorithm/md/day_01/list_01.md)
+- [Day 02 - list_02](./algorithm/md/day_02/list_02.md)
