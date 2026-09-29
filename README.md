@@ -1,6 +1,6 @@
 # ssafy-study
 
-SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
+SSAFY에서 학습한 Python과 Web, Algoritm 내용을 정리한 저장소입니다.
 
 ## 📚 학습 목록
 
