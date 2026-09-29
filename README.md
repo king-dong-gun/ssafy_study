@@ -29,4 +29,7 @@ SSAFY에서 학습한 Python과 Web 내용을 정리한 저장소입니다.
 - [Day 01 - List_01](./algorithm/md/day_01/list_01.md)
 - [Day 02 - List_02](./algorithm/md/day_02/list_02.md)
 - [Day 03 - String](./algorithm/md/day_03/string.md)
-- [Day 04 - Stack](./algorithm/md/day_04/stack.md)
+- [Day 05 - Stack](./algorithm/md/day_05/bfs.md)
+- [Day 05 - Stack](./algorithm/md/day_05/queue.md)
+- [Day 06 - Tree](./algorithm/md/day_06/tree.md)
+- [Day 07 - Greedy](./algorithm/md/day_07/brute_force.md)
