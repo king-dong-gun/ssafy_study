@@ -33,5 +33,6 @@ SSAFY에서 학습한 Python과 Web, Algoritm 내용을 정리한 저장소입�
 - [Day 05 - Queue_01](./algorithm/md/day_05/bfs.md)
 - [Day 05 - Queue_02](./algorithm/md/day_05/queue.md)
 - [Day 06 - Tree](./algorithm/md/day_06/tree.md)
-- [Day 07 - Iteration/Recursion](./algorithm/md/day_07/iteration-recursion.md)
+- [Day 07 - Iteration/Recursion](./algorithm/md/day_07/iteration_recursion.md)
 - [Day 07 - Greedy](./algorithm/md/day_07/greedy.md)
+- [Day 08 - BackTracking](./algorithm/md/day_08/backtracking.md)
