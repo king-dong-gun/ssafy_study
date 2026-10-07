@@ -36,3 +36,5 @@ SSAFY에서 학습한 Python과 Web, Algoritm 내용을 정리한 저장소입�
 - [Day 07 - Iteration/Recursion](./algorithm/md/day_07/iteration_recursion.md)
 - [Day 07 - Greedy](./algorithm/md/day_07/greedy.md)
 - [Day 08 - BackTracking](./algorithm/md/day_08/backtracking.md)
+- [Day 09 - Graph](./algorithm/md/day_09/graph1.md)
+- [Day 10 - Graph](./algorithm/md/day_10/graph2.md)
