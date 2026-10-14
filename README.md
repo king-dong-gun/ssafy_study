@@ -41,3 +41,5 @@ SSAFY에서 학습한 Python과 Web, Algorithm, Django 내용을 정리한 저�
 
 ### Django
 - [Day 01 - Design Pattern](./django_study/md/day_01/design_pattern.md)
+- [Day 02 - Templates & URLs](./django_study/md/day_02/templates_urls.md)
+- [Day 03 - Model](./django_study/md/day_03/model.md)
