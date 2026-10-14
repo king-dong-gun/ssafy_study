@@ -457,7 +457,9 @@ def detail(request, num):
 
 #### 출력
 
-![업로드중..](blob:https://velog.io/fb891093-1306-4017-8488-59e3dc1dd425)
+![](https://velog.velcdn.com/images/king-dong-gun/post/a2f66b4b-a9ba-4392-a60a-a4264ce9698f/image.png)
 
 
-![업로드중..](blob:https://velog.io/72d45872-1d61-4433-b3c0-01cf3cc014be)
+
+![](https://velog.velcdn.com/images/king-dong-gun/post/439abadd-5604-4a40-bedd-69f0e24f7a88/image.png)
+
