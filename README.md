@@ -45,4 +45,5 @@ SSAFY에서 학습한 Python과 Web, Algorithm, Django 내용을 정리한 저�
 - [Day 03 - Model](./django_study/md/day_03/model.md)
 - [Day 04 - ORM](./django_study/md/day_04/orm.md)
 - [Day 05 - HTTP](./django_study/md/day_05/http.md)
-- [Day 08 - Authentication](./django_study/md/day_08/auth.md)
+- [Day 08 - Authentication](./django_study/md/day_08/auth01.md)
+- [Day 09 - Authentication](./django_study/md/day_08/auth02.md)
