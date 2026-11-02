@@ -52,4 +52,5 @@ SSAFY에서 학습한 Python과 Web, Algorithm, Django 내용을 정리한 저�
 - [Day 10 - Authentication](./django_study/md/day_10/auth03.md)
 
 ### Database
-- [Day 01 - SQL01](./database_study/day_01/sql01.md)
+- [Day 01 - SQL01](database_study/md/day_01/sql01.md)
+- [Day 02 - SQL02](database_study/md/day_02/sql02.md)
