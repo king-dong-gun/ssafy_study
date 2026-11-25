@@ -61,4 +61,9 @@ SSAFY에서 학습한 Python과 Web, Algorithm, Django 내용을 정리한 저�
 ### Javascript
 - [Day 01 - DOM](javascript_study/md/day_01/dom.md)
 - [Day 02 - Basic Syntax_01](javascript_study/md/day_02/basic_syntax_01.md)
-- [Day 01 - Basic Syntax_02](javascript_study/md/day_03/basic_syntax_02.md)
+- [Day 03 - Basic Syntax_02](javascript_study/md/day_03/basic_syntax_02.md)
+- [Day 04 - Basic Syntax_02](javascript_study/md/day_04/event.md)
+- [Day 05 - Basic Syntax_02](javascript_study/md/day_05/ajax.md)
+
+### vue.js
+- [Day 01 - Vue](vue_study/md/day_01/vue.md)
